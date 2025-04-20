@@ -1,5 +1,3 @@
-Certainly! Here's a more professional and polished version of your GitHub README while keeping the essential information:  
-
 ---
 
 # Valorant 10K+ Head-Only Class Dataset  
