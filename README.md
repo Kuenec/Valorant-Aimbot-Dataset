@@ -1,1 +1,1 @@
-# Valorant-Aimbot-YoloV5-AI
+This Project contains 10k+ Heads only Class images for Valorant! To use this you have to download my dataset here: https://universe.roboflow.com/kuenec/valorant-10k-head-only-class-aimbot-ukzjf then train your own bot with whatever you want I personally used YoloV5. After you train it on these images you will have a working Valorant AI Aimbot. 
