@@ -12,10 +12,12 @@ You can download the dataset here:
 ## Usage  
 1. **Download** the dataset from the provided link.  
 2. **Train** your model using your preferred framework (e.g., YOLOv5, YOLOv8, Faster R-CNN).  
-3. **Deploy** the trained model to create a functional Valorant AI aimbot.  
+3. **Deploy** the trained model into the game through the use of torch CUDA and torch.load the .pt file you get after training.  
 
-### Recommended Model  
-- I personally trained my model using **YOLOv5**, but it is compatible with most object detection frameworks.  
+### Recommendations  
+- I personally trained my model using **YOLOv5**, but it is compatible with most object detection frameworks.
+- Augment (blur, flip, crop) some of the images, to prevent your bot from memeorizing the locations of heads, stunting progression of the bot.
+- 🔗 https://github.com/ultralytics/yolov5
 
 ## Disclaimer  
 This dataset is intended for **educational and research purposes only**. The use of AI aimbots in competitive games may violate the terms of service of the game. Use at your own risk.  
