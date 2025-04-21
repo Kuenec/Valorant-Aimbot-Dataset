@@ -25,4 +25,5 @@ This dataset is intended for **educational and research purposes only**. The use
 ## Contributing  
 If you'd like to contribute to expanding or improving this dataset, feel free to open an issue or submit a pull request.  
 
----
+## Training Results  
+<img src="https://github.com/Kuenec/Valorant-Aimbot-Dataset/blob/main/image_2025-04-20_190652789.png" alt="YOLOv5 Training Metrics" width="600"/> 
