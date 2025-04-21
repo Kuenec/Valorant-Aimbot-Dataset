@@ -2,6 +2,7 @@
 
 # Valorant 10K+ Head-Only Class Dataset  
 <img src="https://github.com/Kuenec/Valorant-Aimbot-Dataset/blob/main/Screenshot%202025-04-20%20190402.png" alt="YOLOv5 Training" width="600"/> 
+
 ## Overview  
 This repository provides a dataset containing **10,000+ labeled head only class images** from Valorant, specifically designed for training AI aimbots. The dataset contains only head detection particularly for headshot focused aim only.   
 
