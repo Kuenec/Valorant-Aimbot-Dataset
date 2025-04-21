@@ -7,7 +7,7 @@ This repository provides a dataset containing **10,000+ labeled head only class 
 
 ## Download the Dataset  
 You can download the dataset here:  
-🔗 [Valorant 10K Head-Only Class Dataset (Roboflow)](https://universe.roboflow.com/kuenec/valorant-10k-head-only-class-aimbot-ukzjf)  
+🔗 [Valorant 10K Head Only Class Dataset (Roboflow)](https://universe.roboflow.com/kuenec/valorant-10k-head-only-class-aimbot-ukzjf)  
 
 ## Usage  
 1. **Download** the dataset from the provided link.  
@@ -17,7 +17,7 @@ You can download the dataset here:
 ### Recommendations  
 - I personally trained my model using **YOLOv5**, but it is compatible with most object detection frameworks.
 - Augment (blur, flip, crop) some of the images, to prevent your bot from memeorizing the locations of heads, stunting progression of the bot.
-- 🔗 https://github.com/ultralytics/yolov5
+- 🔗 [Yolov5](https://github.com/ultralytics/yolov5)
 
 ## Disclaimer  
 This dataset is intended for **educational and research purposes only**. The use of AI aimbots in competitive games may violate the terms of service of the game. Use at your own risk.  
